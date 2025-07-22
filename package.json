@@ -41,7 +41,7 @@
   "scripts": {
     "build": "tsc",
     "clean": "rm -rf rules/",
-    "test": "node rules/no-unused-styles.test.js",
+    "test": "npm run build && node rules/no-unused-styles.test.js",
     "release": "npmpub"
   },
   "dependencies": {

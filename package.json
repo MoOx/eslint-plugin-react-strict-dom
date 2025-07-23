@@ -3,7 +3,7 @@
     "access": "public"
   },
   "name": "@moox/eslint-plugin-react-strict-dom",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "ESLint plugin for React Strict DOM",
   "keywords": [
     "eslint",
